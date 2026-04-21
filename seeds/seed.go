@@ -18,7 +18,7 @@ func main() {
 			Category:    "Rare",
 			Stock:       10,
 			Description: "Kartu Pikachu edisi holographic dengan serangan listrik",
-			ImageURL:    "https://images-cdn.ubuy.co.in/65d08057328b513c7148c65e-pokemon-first-partner-pikachu-oversize.jpg",
+			ImageURL:    "https://i.ibb.co.com/0pcntPhh/65d08057328b513c7148c65e-pokemon-first-partner-pikachu-oversize.jpg",
 		},
 		{
 			Name:        "Charizard",
@@ -26,7 +26,7 @@ func main() {
 			Category:    "Rare",
 			Stock:       5,
 			Description: "Kartu Charizard langka dengan efek api kuat",
-			ImageURL:    "https://i.etsystatic.com/22089514/r/il/ecff88/4140836231/il_570xN.4140836231_cpmu.jpg",
+			ImageURL:    "https://i.ibb.co.com/Y4YCCrLn/il-570x-N-4140836231-cpmu.webp",
 		},
 		{
 			Name:        "Mewtwo",
@@ -34,7 +34,7 @@ func main() {
 			Category:    "Rare",
 			Stock:       7,
 			Description: "Kartu Mewtwo rare dengan kekuatan psychic",
-			ImageURL:    "https://asia.pokemon-card.com/id/card-img/id00014444.png",
+			ImageURL:    "https://i.ibb.co.com/mVwRXq4C/id00014444.png",
 		},
 		{
 			Name:        "Bulbasaur",
@@ -42,7 +42,7 @@ func main() {
 			Category:    "Common",
 			Stock:       25,
 			Description: "Kartu Bulbasaur basic tipe rumput",
-			ImageURL:    "https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/PGO/PGO_EN_1.png",
+			ImageURL:    "https://i.ibb.co.com/q3Sk7Jdp/PGO-EN-1.png",
 		},
 		{
 			Name:        "Squirtle",
@@ -66,7 +66,7 @@ func main() {
 			Category:    "Common",
 			Stock:       35,
 			Description: "Kartu Pidgey common tipe terbang",
-			ImageURL:    "https://asia.pokemon-card.com/id/card-img/id00008932.png",
+			ImageURL:    "https://i.ibb.co.com/RpBwB13M/id00008932.png",
 		},
 		{
 			Name:        "Rattata",
@@ -74,7 +74,7 @@ func main() {
 			Category:    "Common",
 			Stock:       40,
 			Description: "Kartu Rattata common tipe normal",
-			ImageURL:    "https://asia.pokemon-card.com/id/card-img/id00008430.png",
+			ImageURL:    "https://i.ibb.co.com/tTwz9ZTP/id00008430-1.png",
 		},
 	}
 	for _, p := range products {
